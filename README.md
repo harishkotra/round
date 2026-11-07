@@ -1,7 +1,9 @@
-# Round — All-or-nothing USDC escrow for micro-raises
+# Round | All-or-nothing USDC escrow for micro-raises
 
 > **Micro-raises under $10,000, settled in USDC on Arc Testnet.**
 > Backers commit USDC to a goal + deadline. The founder is paid only if the goal is hit; otherwise every backer gets a full refund that no admin can block.
+
+<img width="3470" height="2472" alt="screencapture-arc-studio-9eaf2467062f4846b63556a2-vercel-app-2026-11-08-02_40_49" src="https://github.com/user-attachments/assets/c0e141c1-985f-458f-a39a-d5be82f8ac1f" />
 
 ---
 
