@@ -1,0 +1,58 @@
+# Dependencies
+node_modules/
+bun.lockb
+
+# Build output
+dist/
+build/
+.vite/
+
+# Environment / secrets
+.env
+.env.*
+!.env.example
+.circle/
+*recovery*
+*.pem
+*.key
+*.secret
+
+# Foundry / Solidity
+contracts/out/
+contracts/cache/
+contracts/lib/forge-std/
+contracts/lib/openzeppelin-contracts/
+
+# Logs / traces
+traces.jsonl
+console.jsonl
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# TypeScript
+*.tsbuildinfo
+dist-types/
+
+# Coverage / test
+coverage/
+.nyc_output/
+
+# Circle skills (installed locally; regenerate via `circle skill install`)
+.agents/
+
+# Misc
+*.tmp
+*.temp
+
+AGENTS.md
+docs/

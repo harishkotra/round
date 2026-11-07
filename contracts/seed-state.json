@@ -1,0 +1,56 @@
+{
+  "steps": {
+    "settle.createRound": {
+      "circleTxId": "f6b7f69a-8bee-5eb4-908d-063b0e83c951",
+      "txHash": "0x83cb22d13a8c61cb31034d12912ec7b96b466fe4b378877f8e19ed073ea40aff"
+    },
+    "refund.createRound": {
+      "circleTxId": "3f92d771-8a7f-5beb-b273-85bf1bfcd70e",
+      "txHash": "0x837fb69e2e567c2db2d6fbd9ab58d4487d7ce598bacd1a10604aadcce9d20fed"
+    },
+    "settle.backerB.approve": {
+      "circleTxId": "a4f59411-659d-53aa-a655-cb77c4c5ecbb",
+      "txHash": "0xfe5afb301f8936fe72d318c8cf2c0e17204db4bb4ab36c1fd0dc50086496f0f3"
+    },
+    "settle.backerB.commit": {
+      "circleTxId": "9653a897-9881-5108-b878-dd6009a44a53",
+      "txHash": "0xa3c260f728bc1c53ba2ecda7aa4df7d797904f7bcb9b4fac6abf75e74504e831"
+    },
+    "refund.backerA.approve": {
+      "circleTxId": "53544ea2-fe49-58c3-bd6c-caefa293ddcd",
+      "txHash": "0xe407913765d79897db1b4b0da96f16b3d50d2f41b6fcea300e43754a1d4d4441"
+    },
+    "refund.backerA.commit": {
+      "circleTxId": "8b06f611-6a71-52e2-a4ab-95817bb2f07a",
+      "txHash": "0x1b92640039ad11390e19bc755d6f64df2faa26f54b1a0f2c827595d9bb0dff05"
+    },
+    "settle.close": {
+      "circleTxId": "a29666b4-1040-5687-a44e-538560e153a4",
+      "txHash": "0xa03e9336919c022ab676dd98870c1111fd81814da4b491b065f5279a31d437fc"
+    },
+    "refund.close": {
+      "circleTxId": "aac7194c-f596-503d-bbac-bb4aa9bf9969",
+      "txHash": "0x2bb1635a12f3c8a095cd39dc621fefa82c911dffc8c344e51a1ba3992980c984"
+    },
+    "settle.withdraw": {
+      "circleTxId": "6c47f2a9-bcf3-5b09-9bed-e7eea60b05e7",
+      "txHash": "0x5df8721256ce096385d49f5dc965ed3d47e43af96909bb5765a2cc28ed53f2e6"
+    },
+    "refund.refund": {
+      "circleTxId": "55530a85-d10f-5249-a1a2-9f886d093cc3",
+      "txHash": "0xa127b9799ee97aad5bde7a910631b4d2a9030536f80f22ddcd42bc30aa6d35e2"
+    }
+  },
+  "walletSetId": "addc419c-29f4-5381-b882-8723347abc37",
+  "A": {
+    "id": "a1b16f9b-6f74-596a-bd5c-0e1a3abe17c3",
+    "address": "0x25a45d0f995e11d42634466909a456222c3c0293"
+  },
+  "B": {
+    "id": "21781a27-3bf8-5a9f-a222-4891273d3585",
+    "address": "0x31bf597bd9f293486162120befa9f198d21f16ef"
+  },
+  "deadline": 1793952976,
+  "roundSettle": "0x6eCcA4D9aEfB9d38249b5a216099a238E8494F0C",
+  "roundRefund": "0x0fEA5EFCe0466eBe460e82D0F6863dfA1508Ac04"
+}
